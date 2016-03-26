@@ -14,7 +14,7 @@ There are currently *no* plans to implement the Direct3D, Software, or Hardware 
 
 ## Tests
 
-OpenTekk uses JUnit4 and Mockito for tests.
+OpenTekk uses JUnit4, Google Truth, and Mockito for tests.
 
 #### Run all
 
